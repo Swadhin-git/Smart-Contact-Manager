@@ -1,0 +1,30 @@
+body {
+	background: #e2e2e2 !important;
+}
+
+.bg-primary {
+	background: #009688 !important;
+}
+
+.banner {
+	width: 100%;
+	height: 93vh;
+	background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, 0.5)), url(../img/background.jpg);
+	/*background-size: cover;*/
+	color: white;
+}
+
+.get_start {
+	background-color: rgb(255, 216, 20);
+            color: black;
+            height: 30px;
+            width: 150px;
+            border-radius: 30px;
+            border: none;
+            font-weight: bold;
+            cursor: pointer;
+}
+.my-card{
+	padding: 20px;
+	background: #ffffff;
+}
